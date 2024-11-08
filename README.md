@@ -28,3 +28,10 @@ El centro cultural ArtHub organiza eventos culturales y necesita un sistema que 
 
 - Usted es libre de agregar nuevas clases o ampliar la complejidad del problema a su gusto, puede agregar pagos, boletas, etc.
 - Usted es libre de ocupar cualquier tipo de dato o libreria que encuentre optima para resolver la problematica.
+
+## Recursos
+
+- [Documentación Java ArrayList](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
+- [Documentación Java Collections](https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html)
+- [Documentación Java Classes](https://docs.oracle.com/javase/8/docs/api/java/lang/Class.html)
+- [Todas las relaciones UML](https://blog.visual-paradigm.com/es/what-are-the-six-types-of-relationships-in-uml-class-diagrams/)
