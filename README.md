@@ -10,7 +10,8 @@ El centro cultural ArtHub organiza eventos culturales y necesita un sistema que 
 2. **Asignar organizadores a eventos**: Permitir que uno o varios organizadores se asignen a un evento y coordinen las actividades.
 3. **Registrar asistencia**: Permitir que los asistentes se registren en el evento.
 4. **Consultar historial de asistencia**: Mostrar los eventos a los que un asistente ha asistido.
-5. **Cancelar evento**: Permitir la cancelación de un evento, notificando a los asistentes.
+5. **Consultar eventos por organizador**: Mostrar los eventos a los que un asistente ha asistido.
+6. **Cancelar evento**: Permitir la cancelación de un evento, notificando a los asistentes.
 
 ## Clases Involucradas
 
